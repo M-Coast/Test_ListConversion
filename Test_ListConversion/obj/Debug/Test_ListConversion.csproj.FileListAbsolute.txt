@@ -1,0 +1,13 @@
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\bin\Debug\Test_ListConversion.exe.config
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\MainWindow.g.cs
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\App.g.cs
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion_MarkupCompile.cache
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion_MarkupCompile.lref
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\bin\Debug\Test_ListConversion.exe
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\bin\Debug\Test_ListConversion.pdb
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\MainWindow.baml
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.g.resources
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.Properties.Resources.resources
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.csproj.GenerateResource.Cache
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.exe
+c:\users\ma\documents\visual studio 2015\Projects\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.pdb
