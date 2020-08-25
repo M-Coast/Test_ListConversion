@@ -16,7 +16,6 @@ C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\obj\Debug\T
 C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.pdb
 C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\bin\Debug\Test_ListConversion.exe
 C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\bin\Debug\Test_ListConversion.pdb
-C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion.csprojResolveAssemblyReference.cache
 C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\obj\Debug\MainWindow.g.cs
 C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\obj\Debug\App.g.cs
 C:\Users\MA\Documents\GitHub\Test_ListConversion\Test_ListConversion\obj\Debug\Test_ListConversion_MarkupCompile.cache

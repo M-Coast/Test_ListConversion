@@ -24,30 +24,21 @@ namespace Test_ListConversion
         {
             InitializeComponent();
 
-            Test();
+            Test1();
+
+            Test2();
         }
 
-        class BaseType
-        {
-            public int A { set; get; }
-        }
-
-        class UserType : BaseType
-        {
-            public int B { set; get; }
-        }
-
-
-        public void Test()
+        public void Test1()
         {
             List<UserType> LU;
             List<BaseType> LB;
 
             LU = new List<UserType>();
-            LU.Add(new UserType() { A = 1, B = 2 });
-            LU.Add(new UserType() { A = 1, B = 2 });
-            LU.Add(new UserType() { A = 1, B = 2 });
-            LU.Add(new UserType() { A = 1, B = 2 });
+            LU.Add(new UserType() { B = 1, U = 2 });
+            LU.Add(new UserType() { B = 1, U = 2 });
+            LU.Add(new UserType() { B = 1, U = 2 });
+            LU.Add(new UserType() { B = 1, U = 2 });
 
 
             //这样转换编译错误
@@ -66,15 +57,26 @@ namespace Test_ListConversion
             List<UserType> LU2;
 
             LB2 = new List<BaseType>();
-            LB2.Add(new BaseType() { A = 1 });
-            LB2.Add(new BaseType() { A = 1 });
-            LB2.Add(new BaseType() { A = 1 });
-            LB2.Add(new BaseType() { A = 1 });
+            LB2.Add(new BaseType() { B = 1 });
+            LB2.Add(new BaseType() { B = 1 });
+            LB2.Add(new BaseType() { B = 1 });
+            LB2.Add(new BaseType() { B = 1 });
 
             //从父类转换子类，以下方式均不工作，转换过后为NULL或报异常
             LU2 = LB2.ConvertAll<UserType>(i => i as UserType);
             LU2 = LB2.ConvertAll(i => i as UserType);
-            LU2 = LB2.ConvertAll(i => (UserType)i);   //Exception
+            //LU2 = LB2.ConvertAll(i => (UserType)i);   //Exception
+
+        }
+
+
+        private void Test2()
+        {
+            TestList1 t1 = new TestList1();
+            t1.Test();
+
+            TestList2 t2 = new TestList2();
+            t2.Test();
 
         }
 
